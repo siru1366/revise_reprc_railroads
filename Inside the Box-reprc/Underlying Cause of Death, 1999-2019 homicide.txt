@@ -1,0 +1,1452 @@
+"Notes"	"Year"	"Year Code"	"Gender"	"Gender Code"	"Race"	"Race Code"	"Hispanic Origin"	"Hispanic Origin Code"	"Ten-Year Age Groups"	"Ten-Year Age Groups Code"	Deaths	Population	Crude Rate
+	"2009"	"2009"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	17	217626	Unreliable
+	"2009"	"2009"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	7	175268	Unreliable
+	"2009"	"2009"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	11	171309	Unreliable
+	"2009"	"2009"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	10	188360	Unreliable
+	"2009"	"2009"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	3	130254	Unreliable
+	"2009"	"2009"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	2	66008	Unreliable
+	"2009"	"2009"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	1	10784	Unreliable
+"Total"	"2009"	"2009"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"			51	990474	5.1
+"Total"	"2009"	"2009"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"					51	1516680	3.4
+	"2009"	"2009"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	1	76240	Unreliable
+"Total"	"2009"	"2009"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"			1	273755	Unreliable
+	"2009"	"2009"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	16	1119100	Unreliable
+	"2009"	"2009"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	19	1418000	Unreliable
+	"2009"	"2009"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	25	1363350	1.8
+	"2009"	"2009"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	19	1158533	Unreliable
+	"2009"	"2009"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	14	857052	Unreliable
+	"2009"	"2009"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	3	460815	Unreliable
+	"2009"	"2009"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	6	253656	Unreliable
+"Total"	"2009"	"2009"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"			102	6716786	1.5
+"Total"	"2009"	"2009"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"					103	6990541	1.5
+	"2009"	"2009"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	6	236993	Unreliable
+	"2009"	"2009"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	4	220390	Unreliable
+	"2009"	"2009"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	1	167993	Unreliable
+	"2009"	"2009"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	1	125758	Unreliable
+"Total"	"2009"	"2009"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"			12	883614	Unreliable
+	"2009"	"2009"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	277	3304624	8.4
+	"2009"	"2009"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	277	2812534	9.8
+	"2009"	"2009"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	181	2817340	6.4
+	"2009"	"2009"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	154	2896554	5.3
+	"2009"	"2009"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	46	2037954	2.3
+	"2009"	"2009"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	23	1129394	2.0
+	"2009"	"2009"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	17	649006	Unreliable
+	"2009"	"2009"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	6	267385	Unreliable
+"Total"	"2009"	"2009"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"			981	15914791	6.2
+"Total"	"2009"	"2009"	"Female"	"F"	"Black or African American"	"2054-5"					993	16798405	5.9
+	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	117	3646976	3.2
+	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	120	3539047	3.4
+	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	92	3163183	2.9
+	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	57	2392730	2.4
+	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"55-64 years"	"55-64"	26	1468508	1.8
+	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"65-74 years"	"65-74"	12	817563	Unreliable
+	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"75-84 years"	"75-84"	5	460841	Unreliable
+	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"85+ years"	"85+"	3	156388	Unreliable
+"Total"	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"			432	15645236	2.8
+	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	219	12521165	1.7
+	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	304	11903782	2.6
+	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	327	12997405	2.5
+	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	311	15919221	2.0
+	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	198	13703966	1.4
+	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	126	8837407	1.4
+	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	88	6163872	1.4
+	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	61	3100490	2.0
+"Total"	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"			1634	85147308	1.9
+"Total"	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"					2066	100792544	2.0
+"Total"	"2009"	"2009"	"Female"	"F"							3213	126098170	2.5
+	"2009"	"2009"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	8	162678	Unreliable
+	"2009"	"2009"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	4	152240	Unreliable
+	"2009"	"2009"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	3	120317	Unreliable
+	"2009"	"2009"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	2	83770	Unreliable
+"Total"	"2009"	"2009"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"			17	582248	Unreliable
+	"2009"	"2009"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	53	224229	23.6
+	"2009"	"2009"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	50	171853	29.1
+	"2009"	"2009"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	34	163435	20.8
+	"2009"	"2009"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	21	173084	12.1
+	"2009"	"2009"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	8	118704	Unreliable
+	"2009"	"2009"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	3	57864	Unreliable
+	"2009"	"2009"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	1	21969	Unreliable
+"Total"	"2009"	"2009"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"			170	936390	18.2
+"Total"	"2009"	"2009"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"					187	1518638	12.3
+	"2009"	"2009"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	3	80062	Unreliable
+	"2009"	"2009"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	8	73121	Unreliable
+	"2009"	"2009"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	1	52915	Unreliable
+	"2009"	"2009"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	1	36018	Unreliable
+"Total"	"2009"	"2009"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"			13	271997	Unreliable
+	"2009"	"2009"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	51	1158459	4.4
+	"2009"	"2009"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	38	1276024	3.0
+	"2009"	"2009"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	36	1221296	2.9
+	"2009"	"2009"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	37	1014114	3.6
+	"2009"	"2009"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	24	709287	3.4
+	"2009"	"2009"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	7	384716	Unreliable
+	"2009"	"2009"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	2	175284	Unreliable
+	"2009"	"2009"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	1	51001	Unreliable
+"Total"	"2009"	"2009"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"			196	5990181	3.3
+"Total"	"2009"	"2009"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"					209	6262178	3.3
+	"2009"	"2009"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	26	242731	10.7
+	"2009"	"2009"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	25	206924	12.1
+	"2009"	"2009"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	9	151226	Unreliable
+	"2009"	"2009"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	3	112522	Unreliable
+	"2009"	"2009"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"55-64 years"	"55-64"	1	60894	Unreliable
+	"2009"	"2009"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"65-74 years"	"65-74"	2	27629	Unreliable
+"Total"	"2009"	"2009"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"			66	816341	8.1
+	"2009"	"2009"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	2483	3329214	74.6
+	"2009"	"2009"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	2014	2551525	78.9
+	"2009"	"2009"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	994	2506688	39.7
+	"2009"	"2009"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	560	2559687	21.9
+	"2009"	"2009"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	223	1692524	13.2
+	"2009"	"2009"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	82	836228	9.8
+	"2009"	"2009"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	25	376758	6.6
+	"2009"	"2009"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	10	103138	Unreliable
+"Total"	"2009"	"2009"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"			6391	13955762	45.8
+"Total"	"2009"	"2009"	"Male"	"M"	"Black or African American"	"2054-5"					6457	14772103	43.7
+	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	1007	4073585	24.7
+	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	684	3944382	17.3
+	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	410	3342309	12.3
+	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	201	2408625	8.3
+	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"55-64 years"	"55-64"	73	1338914	5.5
+	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"65-74 years"	"65-74"	28	654851	4.3
+	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"75-84 years"	"75-84"	21	318524	6.6
+	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"85+ years"	"85+"	5	83959	Unreliable
+"Total"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"			2429	16165149	15.0
+	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	536	13041990	4.1
+	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	626	12079843	5.2
+	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	616	13088015	4.7
+	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	668	15681414	4.3
+	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	383	13097307	2.9
+	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	186	7873632	2.4
+	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	92	4518982	2.0
+	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	37	1486527	2.5
+"Total"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"			3144	80867710	3.9
+"Total"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"					5573	97032859	5.7
+"Total"	"2009"	"2009"	"Male"	"M"							12426	119585778	10.4
+"Total"	"2009"	"2009"									15639	245683948	6.4
+	"2010"	"2010"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	1	137261	Unreliable
+	"2010"	"2010"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"55-64 years"	"55-64"	1	43886	Unreliable
+"Total"	"2010"	"2010"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"			2	559002	Unreliable
+	"2010"	"2010"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	6	215082	Unreliable
+	"2010"	"2010"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	13	178262	Unreliable
+	"2010"	"2010"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	14	169389	Unreliable
+	"2010"	"2010"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	6	189283	Unreliable
+	"2010"	"2010"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	3	134696	Unreliable
+	"2010"	"2010"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	1	68142	Unreliable
+"Total"	"2010"	"2010"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"			43	997602	4.3
+"Total"	"2010"	"2010"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"					45	1556604	2.9
+	"2010"	"2010"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	1	55947	Unreliable
+	"2010"	"2010"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"55-64 years"	"55-64"	1	22412	Unreliable
+	"2010"	"2010"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"85+ years"	"85+"	1	1636	Unreliable
+"Total"	"2010"	"2010"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"			3	289345	Unreliable
+	"2010"	"2010"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	12	1141696	Unreliable
+	"2010"	"2010"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	16	1426417	Unreliable
+	"2010"	"2010"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	20	1393984	1.4
+	"2010"	"2010"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	14	1182796	Unreliable
+	"2010"	"2010"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	14	897380	Unreliable
+	"2010"	"2010"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	5	480177	Unreliable
+	"2010"	"2010"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	6	261727	Unreliable
+	"2010"	"2010"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	4	91285	Unreliable
+"Total"	"2010"	"2010"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"			91	6875462	1.3
+"Total"	"2010"	"2010"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"					94	7164807	1.3
+	"2010"	"2010"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	4	249231	Unreliable
+	"2010"	"2010"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	2	226735	Unreliable
+	"2010"	"2010"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	1	172921	Unreliable
+	"2010"	"2010"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	2	130844	Unreliable
+"Total"	"2010"	"2010"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"			9	919412	Unreliable
+	"2010"	"2010"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	263	3319205	7.9
+	"2010"	"2010"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	267	2839351	9.4
+	"2010"	"2010"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	175	2788664	6.3
+	"2010"	"2010"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	138	2925567	4.7
+	"2010"	"2010"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	78	2121490	3.7
+	"2010"	"2010"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	19	1154227	Unreliable
+	"2010"	"2010"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	13	655779	Unreliable
+	"2010"	"2010"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	7	275593	Unreliable
+"Total"	"2010"	"2010"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"			960	16079876	6.0
+"Total"	"2010"	"2010"	"Female"	"F"	"Black or African American"	"2054-5"					969	16999288	5.7
+	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	104	3726571	2.8
+	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	102	3579879	2.8
+	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	80	3222549	2.5
+	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	53	2471939	2.1
+	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"55-64 years"	"55-64"	15	1537495	Unreliable
+	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"65-74 years"	"65-74"	10	846181	Unreliable
+	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"75-84 years"	"75-84"	8	475810	Unreliable
+	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"85+ years"	"85+"	2	164444	Unreliable
+"Total"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"			374	16024868	2.3
+	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	220	12426457	1.8
+	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	283	11972057	2.4
+	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	301	12718235	2.4
+	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	304	15839099	1.9
+	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	202	14048907	1.4
+	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	123	9000310	1.4
+	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	108	6125291	1.8
+	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	58	3150003	1.8
+"Total"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"			1599	85280359	1.9
+"Total"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"					1973	101305227	1.9
+"Total"	"2010"	"2010"	"Female"	"F"							3081	127025926	2.4
+	"2010"	"2010"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	11	170415	Unreliable
+	"2010"	"2010"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	1	161496	Unreliable
+	"2010"	"2010"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	3	128237	Unreliable
+"Total"	"2010"	"2010"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"			15	619873	Unreliable
+	"2010"	"2010"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	58	221431	26.2
+	"2010"	"2010"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	58	174655	33.2
+	"2010"	"2010"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	31	161881	19.1
+	"2010"	"2010"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	22	174022	12.6
+	"2010"	"2010"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	6	122812	Unreliable
+	"2010"	"2010"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	3	59646	Unreliable
+"Total"	"2010"	"2010"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"			178	942535	18.9
+"Total"	"2010"	"2010"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"					193	1562408	12.4
+	"2010"	"2010"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	5	84927	Unreliable
+	"2010"	"2010"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	3	76587	Unreliable
+	"2010"	"2010"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	1	55792	Unreliable
+	"2010"	"2010"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"65-74 years"	"65-74"	1	8370	Unreliable
+"Total"	"2010"	"2010"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"			10	287852	Unreliable
+	"2010"	"2010"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	44	1181215	3.7
+	"2010"	"2010"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	44	1279501	3.4
+	"2010"	"2010"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	38	1242803	3.1
+	"2010"	"2010"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	32	1036403	3.1
+	"2010"	"2010"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	25	741756	3.4
+	"2010"	"2010"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	8	400198	Unreliable
+	"2010"	"2010"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	2	182380	Unreliable
+	"2010"	"2010"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	1	53755	Unreliable
+"Total"	"2010"	"2010"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"			194	6118011	3.2
+"Total"	"2010"	"2010"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"					204	6405863	3.2
+	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	37	254456	14.5
+	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	23	213529	10.8
+	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	13	155288	Unreliable
+	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	3	117205	Unreliable
+	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"55-64 years"	"55-64"	4	64889	Unreliable
+"Total"	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"			80	849488	9.4
+	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	2499	3336709	74.9
+	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	2099	2587488	81.1
+	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	890	2483766	35.8
+	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	544	2590315	21.0
+	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	239	1767574	13.5
+	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	81	856880	9.5
+	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	20	383717	5.2
+	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	9	107218	Unreliable
+"Total"	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"			6381	14113667	45.2
+"Total"	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"					6461	14963155	43.2
+	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	861	4138572	20.8
+	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	714	3967572	18.0
+	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	316	3395088	9.3
+	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	216	2490097	8.7
+	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"55-64 years"	"55-64"	72	1405962	5.1
+	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"65-74 years"	"65-74"	23	680581	3.4
+	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"75-84 years"	"75-84"	9	330433	Unreliable
+	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"85+ years"	"85+"	5	88948	Unreliable
+"Total"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"			2216	16497253	13.4
+	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	528	12930117	4.1
+	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	605	12171263	5.0
+	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	570	12813144	4.4
+	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	645	15605703	4.1
+	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	395	13434297	2.9
+	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	175	8045131	2.2
+	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	82	4535661	1.8
+	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	24	1528404	1.6
+"Total"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"			3024	81063720	3.7
+"Total"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"					5240	97560973	5.4
+"Total"	"2010"	"2010"	"Male"	"M"							12098	120492399	10.0
+"Total"	"2010"	"2010"									15179	247518325	6.1
+	"2011"	"2011"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"55-64 years"	"55-64"	1	48653	Unreliable
+	"2011"	"2011"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"65-74 years"	"65-74"	1	21283	Unreliable
+"Total"	"2011"	"2011"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"			2	579933	Unreliable
+	"2011"	"2011"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	9	216207	Unreliable
+	"2011"	"2011"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	10	181815	Unreliable
+	"2011"	"2011"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	9	166611	Unreliable
+	"2011"	"2011"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	6	188154	Unreliable
+	"2011"	"2011"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	4	143654	Unreliable
+	"2011"	"2011"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	2	72170	Unreliable
+	"2011"	"2011"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	2	33599	Unreliable
+	"2011"	"2011"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	1	11886	Unreliable
+"Total"	"2011"	"2011"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"			43	1014096	4.2
+"Total"	"2011"	"2011"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"					45	1594029	2.8
+	"2011"	"2011"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	2	73489	Unreliable
+"Total"	"2011"	"2011"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"			2	300497	Unreliable
+	"2011"	"2011"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	11	1143825	Unreliable
+	"2011"	"2011"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	29	1450289	2.0
+	"2011"	"2011"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	14	1432381	Unreliable
+	"2011"	"2011"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	16	1204657	Unreliable
+	"2011"	"2011"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	12	954386	Unreliable
+	"2011"	"2011"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	12	513909	Unreliable
+	"2011"	"2011"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	3	276825	Unreliable
+	"2011"	"2011"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	3	103071	Unreliable
+"Total"	"2011"	"2011"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"			100	7079343	1.4
+"Total"	"2011"	"2011"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"					102	7379840	1.4
+	"2011"	"2011"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	1	252047	Unreliable
+	"2011"	"2011"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	3	232633	Unreliable
+	"2011"	"2011"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	2	180145	Unreliable
+	"2011"	"2011"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	1	137294	Unreliable
+	"2011"	"2011"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"75-84 years"	"75-84"	1	21410	Unreliable
+"Total"	"2011"	"2011"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"			8	954915	Unreliable
+	"2011"	"2011"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	289	3345742	8.6
+	"2011"	"2011"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	241	2890354	8.3
+	"2011"	"2011"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	178	2754761	6.5
+	"2011"	"2011"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	157	2929318	5.4
+	"2011"	"2011"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	54	2249214	2.4
+	"2011"	"2011"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	27	1196557	2.3
+	"2011"	"2011"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	8	675058	Unreliable
+	"2011"	"2011"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	16	284598	Unreliable
+"Total"	"2011"	"2011"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"			970	16325602	5.9
+"Total"	"2011"	"2011"	"Female"	"F"	"Black or African American"	"2054-5"					978	17280517	5.7
+	"2011"	"2011"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	97	3828046	2.5
+	"2011"	"2011"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	113	3624132	3.1
+	"2011"	"2011"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	97	3307290	2.9
+	"2011"	"2011"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	43	2573652	1.7
+	"2011"	"2011"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"55-64 years"	"55-64"	25	1644530	1.5
+	"2011"	"2011"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"65-74 years"	"65-74"	8	895339	Unreliable
+	"2011"	"2011"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"75-84 years"	"75-84"	5	498979	Unreliable
+	"2011"	"2011"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"85+ years"	"85+"	3	183191	Unreliable
+"Total"	"2011"	"2011"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"			391	16555159	2.4
+	"2011"	"2011"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	204	12346159	1.7
+	"2011"	"2011"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	285	12154021	2.3
+	"2011"	"2011"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	275	12388507	2.2
+	"2011"	"2011"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	328	15535056	2.1
+	"2011"	"2011"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	193	14556671	1.3
+	"2011"	"2011"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	124	9253403	1.3
+	"2011"	"2011"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	94	6080583	1.5
+	"2011"	"2011"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	56	3246764	1.7
+"Total"	"2011"	"2011"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"			1559	85561164	1.8
+"Total"	"2011"	"2011"	"Female"	"F"	"White"	"2106-3"					1950	102116323	1.9
+"Total"	"2011"	"2011"	"Female"	"F"							3075	128370709	2.4
+	"2011"	"2011"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	5	171155	Unreliable
+	"2011"	"2011"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	6	166325	Unreliable
+	"2011"	"2011"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	4	132847	Unreliable
+	"2011"	"2011"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	2	95256	Unreliable
+"Total"	"2011"	"2011"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"			17	643666	Unreliable
+	"2011"	"2011"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	39	223412	17.5
+	"2011"	"2011"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	44	178283	24.7
+	"2011"	"2011"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	34	159668	21.3
+	"2011"	"2011"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	34	173816	19.6
+	"2011"	"2011"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	12	129908	Unreliable
+	"2011"	"2011"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	4	63356	Unreliable
+	"2011"	"2011"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	1	24498	Unreliable
+"Total"	"2011"	"2011"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"			168	958899	17.5
+"Total"	"2011"	"2011"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"					185	1602565	11.5
+	"2011"	"2011"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	3	78949	Unreliable
+	"2011"	"2011"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	2	58515	Unreliable
+	"2011"	"2011"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"55-64 years"	"55-64"	1	21638	Unreliable
+	"2011"	"2011"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"65-74 years"	"65-74"	1	9166	Unreliable
+"Total"	"2011"	"2011"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"			7	299363	Unreliable
+	"2011"	"2011"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	53	1182934	4.5
+	"2011"	"2011"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	56	1311248	4.3
+	"2011"	"2011"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	50	1275473	3.9
+	"2011"	"2011"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	25	1061283	2.4
+	"2011"	"2011"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	13	787894	Unreliable
+	"2011"	"2011"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	9	427370	Unreliable
+	"2011"	"2011"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	11	196959	Unreliable
+"Total"	"2011"	"2011"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"			217	6303224	3.4
+"Total"	"2011"	"2011"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"					224	6602587	3.4
+	"2011"	"2011"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	24	259653	9.2
+	"2011"	"2011"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	18	221901	Unreliable
+	"2011"	"2011"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	6	161893	Unreliable
+	"2011"	"2011"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	3	123364	Unreliable
+	"2011"	"2011"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"65-74 years"	"65-74"	2	31676	Unreliable
+"Total"	"2011"	"2011"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"			53	887302	6.0
+	"2011"	"2011"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	2508	3392008	73.9
+	"2011"	"2011"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	2061	2654382	77.6
+	"2011"	"2011"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	945	2450393	38.6
+	"2011"	"2011"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	570	2593939	22.0
+	"2011"	"2011"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	277	1875124	14.8
+	"2011"	"2011"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	64	892727	7.2
+	"2011"	"2011"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	26	401034	6.5
+	"2011"	"2011"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	6	110893	Unreliable
+"Total"	"2011"	"2011"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"			6457	14370500	44.9
+"Total"	"2011"	"2011"	"Male"	"M"	"Black or African American"	"2054-5"					6510	15257802	42.7
+	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	806	4228319	19.1
+	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	637	4068089	15.7
+	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	333	3492310	9.5
+	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	186	2615221	7.1
+	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"55-64 years"	"55-64"	77	1515169	5.1
+	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"65-74 years"	"65-74"	29	726343	4.0
+	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"75-84 years"	"75-84"	8	349080	Unreliable
+	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"85+ years"	"85+"	4	99513	Unreliable
+"Total"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"			2080	17094044	12.2
+	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	497	12888384	3.9
+	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	662	12364986	5.4
+	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	561	12492371	4.5
+	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	661	15315897	4.3
+	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	413	13907587	3.0
+	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	173	8306752	2.1
+	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	102	4576873	2.2
+	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	38	1610254	2.4
+"Total"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"			3107	81463104	3.8
+"Total"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"					5187	98557148	5.3
+"Total"	"2011"	"2011"	"Male"	"M"							12106	122020102	9.9
+"Total"	"2011"	"2011"									15181	250390811	6.1
+	"2012"	"2012"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	1	119127	Unreliable
+"Total"	"2012"	"2012"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"			1	593235	Unreliable
+	"2012"	"2012"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	14	217248	Unreliable
+	"2012"	"2012"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	14	184173	Unreliable
+	"2012"	"2012"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	7	166322	Unreliable
+	"2012"	"2012"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	4	186212	Unreliable
+	"2012"	"2012"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	5	148220	Unreliable
+	"2012"	"2012"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	2	77525	Unreliable
+"Total"	"2012"	"2012"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"			46	1027341	4.5
+"Total"	"2012"	"2012"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"					47	1620576	2.9
+	"2012"	"2012"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	15	1179455	Unreliable
+	"2012"	"2012"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	17	1507422	Unreliable
+	"2012"	"2012"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	21	1482625	1.4
+	"2012"	"2012"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	14	1231863	Unreliable
+	"2012"	"2012"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	23	997000	2.3
+	"2012"	"2012"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	8	556457	Unreliable
+	"2012"	"2012"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	7	291612	Unreliable
+	"2012"	"2012"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	5	113014	Unreliable
+"Total"	"2012"	"2012"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"			110	7359448	1.5
+"Total"	"2012"	"2012"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"					110	7667816	1.4
+	"2012"	"2012"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	3	255239	Unreliable
+	"2012"	"2012"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	3	237941	Unreliable
+	"2012"	"2012"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	2	186814	Unreliable
+	"2012"	"2012"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	2	142212	Unreliable
+	"2012"	"2012"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"55-64 years"	"55-64"	1	87331	Unreliable
+	"2012"	"2012"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"65-74 years"	"65-74"	1	43899	Unreliable
+	"2012"	"2012"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"85+ years"	"85+"	1	8173	Unreliable
+"Total"	"2012"	"2012"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"			13	983594	Unreliable
+	"2012"	"2012"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	283	3366865	8.4
+	"2012"	"2012"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	253	2932865	8.6
+	"2012"	"2012"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	172	2754386	6.2
+	"2012"	"2012"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	154	2913712	5.3
+	"2012"	"2012"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	53	2332305	2.3
+	"2012"	"2012"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	28	1260777	2.2
+	"2012"	"2012"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	16	684084	Unreliable
+	"2012"	"2012"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	6	299097	Unreliable
+"Total"	"2012"	"2012"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"			965	16544091	5.8
+"Total"	"2012"	"2012"	"Female"	"F"	"Black or African American"	"2054-5"					978	17527685	5.6
+	"2012"	"2012"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	94	3889603	2.4
+	"2012"	"2012"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	106	3638859	2.9
+	"2012"	"2012"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	78	3363260	2.3
+	"2012"	"2012"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	53	2645266	2.0
+	"2012"	"2012"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"55-64 years"	"55-64"	30	1722563	1.7
+	"2012"	"2012"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"65-74 years"	"65-74"	5	949589	Unreliable
+	"2012"	"2012"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"75-84 years"	"75-84"	4	518618	Unreliable
+	"2012"	"2012"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"85+ years"	"85+"	4	198860	Unreliable
+"Total"	"2012"	"2012"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"			374	16926618	2.2
+	"2012"	"2012"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	206	12286437	1.7
+	"2012"	"2012"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	295	12253990	2.4
+	"2012"	"2012"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	283	12209836	2.3
+	"2012"	"2012"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	297	15207982	2.0
+	"2012"	"2012"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	211	14617549	1.4
+	"2012"	"2012"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	121	9859169	1.2
+	"2012"	"2012"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	99	6057023	1.6
+	"2012"	"2012"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	50	3285736	1.5
+"Total"	"2012"	"2012"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"			1562	85777722	1.8
+"Total"	"2012"	"2012"	"Female"	"F"	"White"	"2106-3"					1936	102704340	1.9
+"Total"	"2012"	"2012"	"Female"	"F"							3071	129520417	2.4
+	"2012"	"2012"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	11	171155	Unreliable
+	"2012"	"2012"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	5	168211	Unreliable
+	"2012"	"2012"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	4	135874	Unreliable
+	"2012"	"2012"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"55-64 years"	"55-64"	1	53023	Unreliable
+"Total"	"2012"	"2012"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"			21	656410	3.2
+	"2012"	"2012"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	38	224518	16.9
+	"2012"	"2012"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	63	181482	34.7
+	"2012"	"2012"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	27	159777	16.9
+	"2012"	"2012"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	32	172009	18.6
+	"2012"	"2012"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	11	132888	Unreliable
+	"2012"	"2012"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	6	68254	Unreliable
+"Total"	"2012"	"2012"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"			177	971109	18.2
+"Total"	"2012"	"2012"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"					198	1627519	12.2
+	"2012"	"2012"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	6	86154	Unreliable
+	"2012"	"2012"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	5	80116	Unreliable
+	"2012"	"2012"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	3	60750	Unreliable
+	"2012"	"2012"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	1	42162	Unreliable
+"Total"	"2012"	"2012"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"			15	306969	Unreliable
+	"2012"	"2012"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	44	1214689	3.6
+	"2012"	"2012"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	61	1370767	4.5
+	"2012"	"2012"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	36	1315505	2.7
+	"2012"	"2012"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	28	1086092	2.6
+	"2012"	"2012"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	28	823847	3.4
+	"2012"	"2012"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	9	458949	Unreliable
+	"2012"	"2012"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	3	210479	Unreliable
+	"2012"	"2012"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	1	65009	Unreliable
+"Total"	"2012"	"2012"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"			210	6545337	3.2
+"Total"	"2012"	"2012"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"					225	6852306	3.3
+	"2012"	"2012"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	25	265922	9.4
+	"2012"	"2012"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	15	227913	Unreliable
+	"2012"	"2012"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	7	168065	Unreliable
+	"2012"	"2012"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	6	127307	Unreliable
+	"2012"	"2012"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"55-64 years"	"55-64"	2	75780	Unreliable
+	"2012"	"2012"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"65-74 years"	"65-74"	2	33639	Unreliable
+	"2012"	"2012"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"75-84 years"	"75-84"	1	14146	Unreliable
+"Total"	"2012"	"2012"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"			58	916565	6.3
+	"2012"	"2012"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	2586	3431874	75.4
+	"2012"	"2012"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	2153	2716569	79.3
+	"2012"	"2012"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	1107	2451581	45.2
+	"2012"	"2012"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	589	2580039	22.8
+	"2012"	"2012"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	288	1945605	14.8
+	"2012"	"2012"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	75	944880	7.9
+	"2012"	"2012"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	28	410007	6.8
+	"2012"	"2012"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	6	119700	Unreliable
+"Total"	"2012"	"2012"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"			6832	14600255	46.8
+"Total"	"2012"	"2012"	"Male"	"M"	"Black or African American"	"2054-5"					6890	15516820	44.4
+	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	776	4260722	18.2
+	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	647	4103233	15.8
+	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	358	3554577	10.1
+	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	182	2699833	6.7
+	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"55-64 years"	"55-64"	87	1594905	5.5
+	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"65-74 years"	"65-74"	28	775797	3.6
+	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"75-84 years"	"75-84"	10	363845	Unreliable
+	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"85+ years"	"85+"	3	109302	Unreliable
+"Total"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"			2091	17462214	12.0
+	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	500	12857283	3.9
+	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	689	12490501	5.5
+	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	589	12327478	4.8
+	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	680	15001456	4.5
+	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	405	13953898	2.9
+	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	216	8890920	2.4
+	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	98	4612693	2.1
+	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	32	1656437	1.9
+"Total"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"			3209	81790666	3.9
+"Total"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"					5300	99252880	5.3
+"Total"	"2012"	"2012"	"Male"	"M"							12613	123249525	10.2
+"Total"	"2012"	"2012"									15684	252769942	6.2
+	"2013"	"2013"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	1	155717	Unreliable
+	"2013"	"2013"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	1	141920	Unreliable
+	"2013"	"2013"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	1	122037	Unreliable
+	"2013"	"2013"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	1	93173	Unreliable
+"Total"	"2013"	"2013"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"			4	607946	Unreliable
+	"2013"	"2013"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	11	217986	Unreliable
+	"2013"	"2013"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	12	187359	Unreliable
+	"2013"	"2013"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	9	165749	Unreliable
+	"2013"	"2013"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	4	183332	Unreliable
+	"2013"	"2013"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	2	153345	Unreliable
+	"2013"	"2013"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	1	36542	Unreliable
+"Total"	"2013"	"2013"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"			39	1040537	3.7
+"Total"	"2013"	"2013"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"					43	1648483	2.6
+	"2013"	"2013"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	1	45760	Unreliable
+"Total"	"2013"	"2013"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"			1	316718	Unreliable
+	"2013"	"2013"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	9	1195628	Unreliable
+	"2013"	"2013"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	20	1552662	1.3
+	"2013"	"2013"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	22	1518152	1.4
+	"2013"	"2013"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	12	1263694	Unreliable
+	"2013"	"2013"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	12	1036270	Unreliable
+	"2013"	"2013"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	3	601706	Unreliable
+	"2013"	"2013"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	2	306688	Unreliable
+"Total"	"2013"	"2013"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"			80	7599408	1.1
+"Total"	"2013"	"2013"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"					81	7916126	1.0
+	"2013"	"2013"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	8	257646	Unreliable
+	"2013"	"2013"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	2	242996	Unreliable
+	"2013"	"2013"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	2	193673	Unreliable
+	"2013"	"2013"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	1	146969	Unreliable
+"Total"	"2013"	"2013"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"			13	1013013	Unreliable
+	"2013"	"2013"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	243	3372635	7.2
+	"2013"	"2013"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	271	2981135	9.1
+	"2013"	"2013"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	169	2756591	6.1
+	"2013"	"2013"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	162	2896386	5.6
+	"2013"	"2013"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	74	2405774	3.1
+	"2013"	"2013"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	30	1331246	2.3
+	"2013"	"2013"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	14	699348	Unreliable
+	"2013"	"2013"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	4	309079	Unreliable
+"Total"	"2013"	"2013"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"			967	16752194	5.8
+"Total"	"2013"	"2013"	"Female"	"F"	"Black or African American"	"2054-5"					980	17765207	5.5
+	"2013"	"2013"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	100	3951953	2.5
+	"2013"	"2013"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	105	3663298	2.9
+	"2013"	"2013"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	76	3416405	2.2
+	"2013"	"2013"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	37	2725484	1.4
+	"2013"	"2013"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"55-64 years"	"55-64"	19	1802718	Unreliable
+	"2013"	"2013"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"65-74 years"	"65-74"	12	1004727	Unreliable
+	"2013"	"2013"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"75-84 years"	"75-84"	4	539193	Unreliable
+"Total"	"2013"	"2013"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"			353	17319186	2.0
+	"2013"	"2013"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	191	12194196	1.6
+	"2013"	"2013"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	267	12357957	2.2
+	"2013"	"2013"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	276	12072552	2.3
+	"2013"	"2013"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	289	14843650	1.9
+	"2013"	"2013"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	245	14785356	1.7
+	"2013"	"2013"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	127	10314159	1.2
+	"2013"	"2013"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	112	6063864	1.8
+	"2013"	"2013"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	52	3321293	1.6
+"Total"	"2013"	"2013"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"			1559	85953027	1.8
+"Total"	"2013"	"2013"	"Female"	"F"	"White"	"2106-3"					1912	103272213	1.9
+"Total"	"2013"	"2013"	"Female"	"F"							3016	130602029	2.3
+	"2013"	"2013"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	4	170678	Unreliable
+	"2013"	"2013"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	8	170630	Unreliable
+	"2013"	"2013"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	1	101873	Unreliable
+	"2013"	"2013"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"55-64 years"	"55-64"	1	56772	Unreliable
+"Total"	"2013"	"2013"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"			14	671719	Unreliable
+	"2013"	"2013"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	24	225170	10.7
+	"2013"	"2013"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	53	185539	28.6
+	"2013"	"2013"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	40	159633	25.1
+	"2013"	"2013"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	23	169657	13.6
+	"2013"	"2013"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	12	136776	Unreliable
+	"2013"	"2013"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	4	72750	Unreliable
+	"2013"	"2013"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	1	27157	Unreliable
+"Total"	"2013"	"2013"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"			157	983860	16.0
+"Total"	"2013"	"2013"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"					171	1655579	10.3
+	"2013"	"2013"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	1	86631	Unreliable
+	"2013"	"2013"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	1	81624	Unreliable
+	"2013"	"2013"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	2	62896	Unreliable
+	"2013"	"2013"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"65-74 years"	"65-74"	1	10718	Unreliable
+"Total"	"2013"	"2013"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"			5	315440	Unreliable
+	"2013"	"2013"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	45	1229489	3.7
+	"2013"	"2013"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	46	1421409	3.2
+	"2013"	"2013"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	30	1342169	2.2
+	"2013"	"2013"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	31	1113738	2.8
+	"2013"	"2013"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	21	859267	2.4
+	"2013"	"2013"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	5	493526	Unreliable
+	"2013"	"2013"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	5	225766	Unreliable
+"Total"	"2013"	"2013"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"			183	6756993	2.7
+"Total"	"2013"	"2013"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"					188	7072433	2.7
+	"2013"	"2013"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	24	270076	8.9
+	"2013"	"2013"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	33	234277	14.1
+	"2013"	"2013"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	3	174169	Unreliable
+	"2013"	"2013"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	3	131834	Unreliable
+"Total"	"2013"	"2013"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"			63	946562	6.7
+	"2013"	"2013"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	2450	3450319	71.0
+	"2013"	"2013"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	2174	2784499	78.1
+	"2013"	"2013"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	1056	2454816	43.0
+	"2013"	"2013"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	599	2561168	23.4
+	"2013"	"2013"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	276	2011942	13.7
+	"2013"	"2013"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	78	1001955	7.8
+	"2013"	"2013"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	28	424246	6.6
+	"2013"	"2013"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	11	125196	Unreliable
+"Total"	"2013"	"2013"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"			6672	14814141	45.0
+"Total"	"2013"	"2013"	"Male"	"M"	"Black or African American"	"2054-5"					6735	15760703	42.7
+	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	711	4298744	16.5
+	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	574	4151707	13.8
+	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	330	3619711	9.1
+	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	212	2792705	7.6
+	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"55-64 years"	"55-64"	82	1678545	4.9
+	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"65-74 years"	"65-74"	26	828095	3.1
+	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"75-84 years"	"75-84"	9	379662	Unreliable
+	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"85+ years"	"85+"	6	119352	Unreliable
+"Total"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"			1950	17868521	10.9
+	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	496	12794048	3.9
+	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	657	12611806	5.2
+	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	556	12192809	4.6
+	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	606	14654328	4.1
+	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	421	14108450	3.0
+	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	222	9331674	2.4
+	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	103	4676530	2.2
+	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	42	1710806	2.5
+"Total"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"			3103	82080451	3.8
+"Total"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"					5053	99948972	5.1
+"Total"	"2013"	"2013"	"Male"	"M"							12147	124437687	9.8
+"Total"	"2013"	"2013"									15163	255039716	5.9
+	"2014"	"2014"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	1	158169	Unreliable
+	"2014"	"2014"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	1	143967	Unreliable
+	"2014"	"2014"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"65-74 years"	"65-74"	1	26745	Unreliable
+"Total"	"2014"	"2014"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"			3	626330	Unreliable
+	"2014"	"2014"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	7	217566	Unreliable
+	"2014"	"2014"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	15	191328	Unreliable
+	"2014"	"2014"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	10	165539	Unreliable
+	"2014"	"2014"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	9	180677	Unreliable
+	"2014"	"2014"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	4	158285	Unreliable
+	"2014"	"2014"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	2	87753	Unreliable
+"Total"	"2014"	"2014"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"			47	1054148	4.5
+"Total"	"2014"	"2014"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"					50	1680478	3.0
+	"2014"	"2014"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	1	84405	Unreliable
+"Total"	"2014"	"2014"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"			1	326686	Unreliable
+	"2014"	"2014"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	14	1237264	Unreliable
+	"2014"	"2014"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	8	1624074	Unreliable
+	"2014"	"2014"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	18	1570294	Unreliable
+	"2014"	"2014"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	24	1318669	1.8
+	"2014"	"2014"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	13	1081454	Unreliable
+	"2014"	"2014"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	7	655389	Unreliable
+	"2014"	"2014"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	5	324934	Unreliable
+"Total"	"2014"	"2014"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"			89	7947506	1.1
+"Total"	"2014"	"2014"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"					90	8274192	1.1
+	"2014"	"2014"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	10	262233	Unreliable
+	"2014"	"2014"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	3	249286	Unreliable
+	"2014"	"2014"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	2	203434	Unreliable
+	"2014"	"2014"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"55-64 years"	"55-64"	1	98680	Unreliable
+"Total"	"2014"	"2014"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"			16	1051028	Unreliable
+	"2014"	"2014"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	244	3367586	7.2
+	"2014"	"2014"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	249	3055628	8.1
+	"2014"	"2014"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	164	2780848	5.9
+	"2014"	"2014"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	134	2875907	4.7
+	"2014"	"2014"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	69	2479158	2.8
+	"2014"	"2014"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	31	1409606	2.2
+	"2014"	"2014"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	23	716232	3.2
+	"2014"	"2014"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	5	318456	Unreliable
+"Total"	"2014"	"2014"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"			919	17003421	5.4
+"Total"	"2014"	"2014"	"Female"	"F"	"Black or African American"	"2054-5"					935	18054449	5.2
+	"2014"	"2014"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	109	4046153	2.7
+	"2014"	"2014"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	96	3744161	2.6
+	"2014"	"2014"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	83	3517053	2.4
+	"2014"	"2014"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	43	2839333	1.5
+	"2014"	"2014"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"55-64 years"	"55-64"	30	1910814	1.6
+	"2014"	"2014"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"65-74 years"	"65-74"	8	1074292	Unreliable
+	"2014"	"2014"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"75-84 years"	"75-84"	5	564663	Unreliable
+"Total"	"2014"	"2014"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"			374	17927956	2.1
+	"2014"	"2014"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	160	12082995	1.3
+	"2014"	"2014"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	308	12460150	2.5
+	"2014"	"2014"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	250	11927012	2.1
+	"2014"	"2014"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	267	14522228	1.8
+	"2014"	"2014"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	186	14938113	1.2
+	"2014"	"2014"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	138	10730491	1.3
+	"2014"	"2014"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	103	6102379	1.7
+	"2014"	"2014"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	66	3337547	2.0
+"Total"	"2014"	"2014"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"			1478	86100915	1.7
+"Total"	"2014"	"2014"	"Female"	"F"	"White"	"2106-3"					1852	104028871	1.8
+"Total"	"2014"	"2014"	"Female"	"F"							2927	132037990	2.2
+	"2014"	"2014"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	4	170166	Unreliable
+	"2014"	"2014"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	5	171839	Unreliable
+	"2014"	"2014"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	3	142499	Unreliable
+	"2014"	"2014"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	1	105923	Unreliable
+	"2014"	"2014"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"55-64 years"	"55-64"	1	60770	Unreliable
+	"2014"	"2014"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"65-74 years"	"65-74"	1	24509	Unreliable
+"Total"	"2014"	"2014"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"			15	686727	Unreliable
+	"2014"	"2014"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	44	224931	19.6
+	"2014"	"2014"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	51	190002	26.8
+	"2014"	"2014"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	31	159671	19.4
+	"2014"	"2014"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	32	168238	19.0
+	"2014"	"2014"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	12	140405	Unreliable
+	"2014"	"2014"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	2	77284	Unreliable
+	"2014"	"2014"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	4	28803	Unreliable
+"Total"	"2014"	"2014"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"			176	997170	17.6
+"Total"	"2014"	"2014"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"					191	1683897	11.3
+	"2014"	"2014"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	2	87259	Unreliable
+	"2014"	"2014"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	3	83204	Unreliable
+	"2014"	"2014"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	2	65258	Unreliable
+"Total"	"2014"	"2014"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"			7	324927	Unreliable
+	"2014"	"2014"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	44	1272088	3.5
+	"2014"	"2014"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	49	1496300	3.3
+	"2014"	"2014"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	36	1383796	2.6
+	"2014"	"2014"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	29	1159268	2.5
+	"2014"	"2014"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	25	898556	2.8
+	"2014"	"2014"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	8	533688	Unreliable
+	"2014"	"2014"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	2	243783	Unreliable
+	"2014"	"2014"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	1	78262	Unreliable
+"Total"	"2014"	"2014"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"			194	7065741	2.7
+"Total"	"2014"	"2014"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"					201	7390668	2.7
+	"2014"	"2014"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	33	276050	12.0
+	"2014"	"2014"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	11	243171	Unreliable
+	"2014"	"2014"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	14	183085	Unreliable
+	"2014"	"2014"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	8	137146	Unreliable
+	"2014"	"2014"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"55-64 years"	"55-64"	3	85774	Unreliable
+"Total"	"2014"	"2014"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"			69	985506	7.0
+	"2014"	"2014"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	2388	3458870	69.0
+	"2014"	"2014"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	2099	2879162	72.9
+	"2014"	"2014"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	1037	2478026	41.8
+	"2014"	"2014"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	583	2543801	22.9
+	"2014"	"2014"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	280	2076375	13.5
+	"2014"	"2014"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	103	1059696	9.7
+	"2014"	"2014"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	27	440085	6.1
+	"2014"	"2014"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	10	131605	Unreliable
+"Total"	"2014"	"2014"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"			6527	15067620	43.3
+"Total"	"2014"	"2014"	"Male"	"M"	"Black or African American"	"2054-5"					6596	16053126	41.1
+	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	652	4334406	15.0
+	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	592	4168033	14.2
+	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	386	3691692	10.5
+	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	190	2905631	6.5
+	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"55-64 years"	"55-64"	84	1782069	4.7
+	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"65-74 years"	"65-74"	35	887883	3.9
+	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"75-84 years"	"75-84"	12	398550	Unreliable
+	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"85+ years"	"85+"	3	131131	Unreliable
+"Total"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"			1954	18299395	10.7
+	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	447	12699680	3.5
+	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	672	12738503	5.3
+	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	549	12055202	4.6
+	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	615	14359357	4.3
+	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	424	14251676	3.0
+	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	209	9714807	2.2
+	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	85	4753148	1.8
+	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	33	1751652	1.9
+"Total"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"			3034	82324025	3.7
+"Total"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"					4988	100623420	5.0
+"Total"	"2014"	"2014"	"Male"	"M"							11976	125751111	9.5
+"Total"	"2014"	"2014"									14903	257789101	5.8
+	"2015"	"2015"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	2	159657	Unreliable
+	"2015"	"2015"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	1	144914	Unreliable
+	"2015"	"2015"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	1	99746	Unreliable
+"Total"	"2015"	"2015"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"			4	642463	Unreliable
+	"2015"	"2015"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	3	215946	Unreliable
+	"2015"	"2015"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	16	195058	Unreliable
+	"2015"	"2015"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	9	165865	Unreliable
+	"2015"	"2015"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	5	177764	Unreliable
+	"2015"	"2015"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	7	163250	Unreliable
+	"2015"	"2015"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	3	93091	Unreliable
+"Total"	"2015"	"2015"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"			43	1066973	4.0
+"Total"	"2015"	"2015"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"					47	1709436	2.7
+	"2015"	"2015"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	2	84877	Unreliable
+	"2015"	"2015"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	1	79429	Unreliable
+	"2015"	"2015"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	1	66240	Unreliable
+	"2015"	"2015"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	1	49522	Unreliable
+	"2015"	"2015"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"55-64 years"	"55-64"	1	31486	Unreliable
+	"2015"	"2015"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"75-84 years"	"75-84"	1	6980	Unreliable
+"Total"	"2015"	"2015"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"			7	336429	Unreliable
+	"2015"	"2015"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	11	1271823	Unreliable
+	"2015"	"2015"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	13	1692066	Unreliable
+	"2015"	"2015"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	18	1617462	Unreliable
+	"2015"	"2015"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	9	1367257	Unreliable
+	"2015"	"2015"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	13	1123884	Unreliable
+	"2015"	"2015"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	8	710227	Unreliable
+	"2015"	"2015"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	9	343363	Unreliable
+	"2015"	"2015"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	2	147523	Unreliable
+"Total"	"2015"	"2015"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"			83	8273605	1.0
+"Total"	"2015"	"2015"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"					90	8610034	1.0
+	"2015"	"2015"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	3	264847	Unreliable
+	"2015"	"2015"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	4	255760	Unreliable
+	"2015"	"2015"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	4	212908	Unreliable
+"Total"	"2015"	"2015"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"			11	1087112	Unreliable
+	"2015"	"2015"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	269	3342283	8.0
+	"2015"	"2015"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	290	3127225	9.3
+	"2015"	"2015"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	171	2800164	6.1
+	"2015"	"2015"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	130	2863655	4.5
+	"2015"	"2015"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	81	2549645	3.2
+	"2015"	"2015"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	28	1488908	1.9
+	"2015"	"2015"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	16	736690	Unreliable
+	"2015"	"2015"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	9	328330	Unreliable
+"Total"	"2015"	"2015"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"			994	17236900	5.8
+"Total"	"2015"	"2015"	"Female"	"F"	"Black or African American"	"2054-5"					1005	18324012	5.5
+	"2015"	"2015"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	105	4107315	2.6
+	"2015"	"2015"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	111	3792643	2.9
+	"2015"	"2015"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	88	3588779	2.5
+	"2015"	"2015"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	66	2931320	2.3
+	"2015"	"2015"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"55-64 years"	"55-64"	23	2013819	1.1
+	"2015"	"2015"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"65-74 years"	"65-74"	7	1142786	Unreliable
+	"2015"	"2015"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"75-84 years"	"75-84"	10	588301	Unreliable
+	"2015"	"2015"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"85+ years"	"85+"	7	250018	Unreliable
+"Total"	"2015"	"2015"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"			417	18414981	2.3
+	"2015"	"2015"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	202	11935747	1.7
+	"2015"	"2015"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	324	12550969	2.6
+	"2015"	"2015"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	269	11806142	2.3
+	"2015"	"2015"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	266	14242059	1.9
+	"2015"	"2015"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	231	15112545	1.5
+	"2015"	"2015"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	124	11124167	1.1
+	"2015"	"2015"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	118	6145537	1.9
+	"2015"	"2015"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	50	3354228	1.5
+"Total"	"2015"	"2015"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"			1584	86271394	1.8
+"Total"	"2015"	"2015"	"Female"	"F"	"White"	"2106-3"					2001	104686375	1.9
+"Total"	"2015"	"2015"	"Female"	"F"							3143	133329857	2.4
+	"2015"	"2015"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	11	169969	Unreliable
+	"2015"	"2015"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	4	172257	Unreliable
+	"2015"	"2015"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	2	146309	Unreliable
+	"2015"	"2015"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	1	110002	Unreliable
+	"2015"	"2015"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"55-64 years"	"55-64"	1	65223	Unreliable
+"Total"	"2015"	"2015"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"			19	702520	Unreliable
+	"2015"	"2015"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	49	223528	21.9
+	"2015"	"2015"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	52	195073	26.7
+	"2015"	"2015"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	44	160423	27.4
+	"2015"	"2015"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	32	165801	19.3
+	"2015"	"2015"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	15	144491	Unreliable
+	"2015"	"2015"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	5	81728	Unreliable
+	"2015"	"2015"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	2	30568	Unreliable
+"Total"	"2015"	"2015"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"			199	1010130	19.7
+"Total"	"2015"	"2015"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"					218	1712650	12.7
+	"2015"	"2015"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	6	87673	Unreliable
+	"2015"	"2015"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	4	67750	Unreliable
+"Total"	"2015"	"2015"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"			10	334344	Unreliable
+	"2015"	"2015"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	35	1306360	2.7
+	"2015"	"2015"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	55	1571008	3.5
+	"2015"	"2015"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	38	1422674	2.7
+	"2015"	"2015"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	30	1200632	2.5
+	"2015"	"2015"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	29	937188	3.1
+	"2015"	"2015"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	10	573842	Unreliable
+	"2015"	"2015"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	2	261729	Unreliable
+	"2015"	"2015"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	1	85300	Unreliable
+"Total"	"2015"	"2015"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"			200	7358733	2.7
+"Total"	"2015"	"2015"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"					210	7693077	2.7
+	"2015"	"2015"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	35	281101	12.5
+	"2015"	"2015"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	22	251088	8.8
+	"2015"	"2015"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	10	192485	Unreliable
+	"2015"	"2015"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	3	142236	Unreliable
+	"2015"	"2015"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"55-64 years"	"55-64"	1	91527	Unreliable
+	"2015"	"2015"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"65-74 years"	"65-74"	1	42879	Unreliable
+"Total"	"2015"	"2015"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"			72	1023450	7.0
+	"2015"	"2015"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	2744	3445451	79.6
+	"2015"	"2015"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	2592	2973697	87.2
+	"2015"	"2015"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	1237	2498259	49.5
+	"2015"	"2015"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	660	2531669	26.1
+	"2015"	"2015"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	332	2139272	15.5
+	"2015"	"2015"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	95	1121377	8.5
+	"2015"	"2015"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	24	456068	5.3
+	"2015"	"2015"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	7	137328	Unreliable
+"Total"	"2015"	"2015"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"			7691	15303121	50.3
+"Total"	"2015"	"2015"	"Male"	"M"	"Black or African American"	"2054-5"					7763	16326571	47.5
+	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	757	4373480	17.3
+	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	648	4202759	15.4
+	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	397	3772652	10.5
+	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	226	3001264	7.5
+	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"55-64 years"	"55-64"	109	1891435	5.8
+	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"65-74 years"	"65-74"	35	948328	3.7
+	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"75-84 years"	"75-84"	11	416712	Unreliable
+"Total"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"			2183	18749492	11.6
+	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	481	12578159	3.8
+	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	711	12848868	5.5
+	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	595	11943025	5.0
+	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	658	14099613	4.7
+	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	457	14417315	3.2
+	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	231	10084953	2.3
+	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	99	4827365	2.1
+	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	32	1791088	1.8
+"Total"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"			3264	82590386	4.0
+"Total"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"					5447	101339878	5.4
+"Total"	"2015"	"2015"	"Male"	"M"							13638	127072176	10.7
+"Total"	"2015"	"2015"									16781	260402033	6.4
+	"2016"	"2016"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	3	161073	Unreliable
+	"2016"	"2016"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	4	146567	Unreliable
+	"2016"	"2016"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	1	130556	Unreliable
+"Total"	"2016"	"2016"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"			8	657378	Unreliable
+	"2016"	"2016"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	14	213279	Unreliable
+	"2016"	"2016"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	15	199600	Unreliable
+	"2016"	"2016"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	15	166542	Unreliable
+	"2016"	"2016"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	6	174928	Unreliable
+	"2016"	"2016"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	8	167896	Unreliable
+	"2016"	"2016"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	1	42799	Unreliable
+"Total"	"2016"	"2016"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"			59	1079576	5.5
+"Total"	"2016"	"2016"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"					67	1736954	3.9
+	"2016"	"2016"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	1	85036	Unreliable
+	"2016"	"2016"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	1	81071	Unreliable
+"Total"	"2016"	"2016"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"			2	345120	Unreliable
+	"2016"	"2016"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	17	1285374	Unreliable
+	"2016"	"2016"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	16	1717856	Unreliable
+	"2016"	"2016"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	23	1629774	1.4
+	"2016"	"2016"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	12	1395329	Unreliable
+	"2016"	"2016"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	23	1144834	2.0
+	"2016"	"2016"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	11	747821	Unreliable
+	"2016"	"2016"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	5	358200	Unreliable
+	"2016"	"2016"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	4	157005	Unreliable
+"Total"	"2016"	"2016"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"			111	8436193	1.3
+"Total"	"2016"	"2016"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"					113	8781313	1.3
+	"2016"	"2016"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	2	266496	Unreliable
+	"2016"	"2016"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	4	260464	Unreliable
+	"2016"	"2016"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	4	220055	Unreliable
+"Total"	"2016"	"2016"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"			10	1117537	Unreliable
+	"2016"	"2016"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	326	3294240	9.9
+	"2016"	"2016"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	339	3206458	10.6
+	"2016"	"2016"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	198	2797793	7.1
+	"2016"	"2016"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	147	2854999	5.1
+	"2016"	"2016"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	97	2602528	3.7
+	"2016"	"2016"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	33	1567841	2.1
+	"2016"	"2016"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	19	758737	Unreliable
+	"2016"	"2016"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	12	335598	Unreliable
+"Total"	"2016"	"2016"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"			1171	17418194	6.7
+"Total"	"2016"	"2016"	"Female"	"F"	"Black or African American"	"2054-5"					1181	18535731	6.4
+	"2016"	"2016"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	112	4148848	2.7
+	"2016"	"2016"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	126	3832800	3.3
+	"2016"	"2016"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	88	3608800	2.4
+	"2016"	"2016"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	61	2995486	2.0
+	"2016"	"2016"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"55-64 years"	"55-64"	22	2092929	1.1
+	"2016"	"2016"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"65-74 years"	"65-74"	13	1203166	Unreliable
+	"2016"	"2016"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"75-84 years"	"75-84"	12	609393	Unreliable
+	"2016"	"2016"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"85+ years"	"85+"	1	265389	Unreliable
+"Total"	"2016"	"2016"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"			435	18756811	2.3
+	"2016"	"2016"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	217	11763770	1.8
+	"2016"	"2016"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	328	12632689	2.6
+	"2016"	"2016"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	331	11695817	2.8
+	"2016"	"2016"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	297	13942468	2.1
+	"2016"	"2016"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	227	15245257	1.5
+	"2016"	"2016"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	134	11515242	1.2
+	"2016"	"2016"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	81	6240180	1.3
+	"2016"	"2016"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	63	3362797	1.9
+"Total"	"2016"	"2016"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"			1678	86398220	1.9
+"Total"	"2016"	"2016"	"Female"	"F"	"White"	"2106-3"					2113	105155031	2.0
+"Total"	"2016"	"2016"	"Female"	"F"							3474	134209029	2.6
+	"2016"	"2016"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	6	169305	Unreliable
+	"2016"	"2016"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	10	173335	Unreliable
+	"2016"	"2016"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	3	149177	Unreliable
+	"2016"	"2016"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	2	113140	Unreliable
+	"2016"	"2016"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"55-64 years"	"55-64"	1	69076	Unreliable
+"Total"	"2016"	"2016"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"			22	715785	3.1
+	"2016"	"2016"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	42	220556	19.0
+	"2016"	"2016"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	64	201261	31.8
+	"2016"	"2016"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	41	160392	25.6
+	"2016"	"2016"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	32	163958	19.5
+	"2016"	"2016"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	15	147662	Unreliable
+	"2016"	"2016"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	7	85832	Unreliable
+	"2016"	"2016"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	2	32642	Unreliable
+"Total"	"2016"	"2016"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"			203	1021373	19.9
+"Total"	"2016"	"2016"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"					225	1737158	13.0
+	"2016"	"2016"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	2	87868	Unreliable
+	"2016"	"2016"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	6	85320	Unreliable
+	"2016"	"2016"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	4	69535	Unreliable
+	"2016"	"2016"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	1	49444	Unreliable
+	"2016"	"2016"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"55-64 years"	"55-64"	1	30112	Unreliable
+"Total"	"2016"	"2016"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"			14	342305	Unreliable
+	"2016"	"2016"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	51	1320179	3.9
+	"2016"	"2016"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	61	1614812	3.8
+	"2016"	"2016"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	36	1434612	2.5
+	"2016"	"2016"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	35	1223196	2.9
+	"2016"	"2016"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	35	955393	3.7
+	"2016"	"2016"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	7	598584	Unreliable
+	"2016"	"2016"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	8	275829	Unreliable
+"Total"	"2016"	"2016"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"			233	7514116	3.1
+"Total"	"2016"	"2016"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"					247	7856421	3.1
+	"2016"	"2016"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	36	284724	12.6
+	"2016"	"2016"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	28	258244	10.8
+	"2016"	"2016"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	9	199817	Unreliable
+	"2016"	"2016"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	3	146576	Unreliable
+	"2016"	"2016"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"55-64 years"	"55-64"	3	96245	Unreliable
+	"2016"	"2016"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"85+ years"	"85+"	1	5407	Unreliable
+"Total"	"2016"	"2016"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"			80	1055570	7.6
+	"2016"	"2016"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	2955	3403782	86.8
+	"2016"	"2016"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	2762	3080638	89.7
+	"2016"	"2016"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	1445	2502760	57.7
+	"2016"	"2016"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	659	2520089	26.1
+	"2016"	"2016"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	373	2188564	17.0
+	"2016"	"2016"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	111	1181842	9.4
+	"2016"	"2016"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	29	472359	6.1
+	"2016"	"2016"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	6	141899	Unreliable
+"Total"	"2016"	"2016"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"			8340	15491933	53.8
+"Total"	"2016"	"2016"	"Male"	"M"	"Black or African American"	"2054-5"					8420	16547503	50.9
+	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	825	4390566	18.8
+	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	785	4227982	18.6
+	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	467	3803018	12.3
+	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	220	3063287	7.2
+	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"55-64 years"	"55-64"	107	1970415	5.4
+	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"65-74 years"	"65-74"	29	1002495	2.9
+	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"75-84 years"	"75-84"	16	431794	Unreliable
+	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"85+ years"	"85+"	2	152115	Unreliable
+"Total"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"			2451	19041672	12.9
+	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	549	12415931	4.4
+	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	812	12958146	6.3
+	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	694	11833452	5.9
+	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	670	13826449	4.8
+	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	489	14541571	3.4
+	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	229	10433627	2.2
+	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	105	4931116	2.1
+	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	31	1820369	1.7
+"Total"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"			3579	82760661	4.3
+"Total"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"					6030	101802333	5.9
+"Total"	"2016"	"2016"	"Male"	"M"							14922	127943415	11.7
+"Total"	"2016"	"2016"									18396	262152444	7.0
+	"2017"	"2017"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	1	163101	Unreliable
+	"2017"	"2017"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	1	133846	Unreliable
+	"2017"	"2017"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"55-64 years"	"55-64"	1	71207	Unreliable
+"Total"	"2017"	"2017"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"			3	676158	Unreliable
+	"2017"	"2017"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	7	209882	Unreliable
+	"2017"	"2017"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	28	204294	13.7
+	"2017"	"2017"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	12	167336	Unreliable
+	"2017"	"2017"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	7	171789	Unreliable
+	"2017"	"2017"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	5	171401	Unreliable
+"Total"	"2017"	"2017"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"			59	1090405	5.4
+"Total"	"2017"	"2017"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"					62	1766563	3.5
+	"2017"	"2017"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	2	82630	Unreliable
+	"2017"	"2017"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	1	52697	Unreliable
+"Total"	"2017"	"2017"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"			3	354886	Unreliable
+	"2017"	"2017"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	11	1318171	Unreliable
+	"2017"	"2017"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	25	1778308	1.4
+	"2017"	"2017"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	19	1686994	Unreliable
+	"2017"	"2017"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	15	1454331	Unreliable
+	"2017"	"2017"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	12	1189199	Unreliable
+	"2017"	"2017"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	16	801610	Unreliable
+	"2017"	"2017"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	5	382748	Unreliable
+	"2017"	"2017"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	4	169212	Unreliable
+"Total"	"2017"	"2017"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"			107	8780573	1.2
+"Total"	"2017"	"2017"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"					110	9135459	1.2
+	"2017"	"2017"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	6	270763	Unreliable
+	"2017"	"2017"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	10	267308	Unreliable
+	"2017"	"2017"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	6	228755	Unreliable
+	"2017"	"2017"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	2	170438	Unreliable
+"Total"	"2017"	"2017"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"			24	1157545	2.1
+	"2017"	"2017"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	294	3251690	9.0
+	"2017"	"2017"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	331	3293098	10.1
+	"2017"	"2017"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	203	2826613	7.2
+	"2017"	"2017"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	118	2845566	4.1
+	"2017"	"2017"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	94	2660844	3.5
+	"2017"	"2017"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	47	1646695	2.9
+	"2017"	"2017"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	12	785781	Unreliable
+	"2017"	"2017"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	7	345025	Unreliable
+"Total"	"2017"	"2017"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"			1106	17655312	6.3
+"Total"	"2017"	"2017"	"Female"	"F"	"Black or African American"	"2054-5"					1130	18812857	6.0
+	"2017"	"2017"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	125	4214815	3.0
+	"2017"	"2017"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	138	3931884	3.5
+	"2017"	"2017"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	110	3692007	3.0
+	"2017"	"2017"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	69	3090290	2.2
+	"2017"	"2017"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"55-64 years"	"55-64"	38	2195965	1.7
+	"2017"	"2017"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"65-74 years"	"65-74"	15	1274090	Unreliable
+	"2017"	"2017"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"75-84 years"	"75-84"	5	638578	Unreliable
+	"2017"	"2017"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"85+ years"	"85+"	4	282741	Unreliable
+"Total"	"2017"	"2017"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"			504	19320370	2.6
+	"2017"	"2017"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	225	11586708	1.9
+	"2017"	"2017"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	344	12644541	2.7
+	"2017"	"2017"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	323	11700616	2.8
+	"2017"	"2017"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	323	13577849	2.4
+	"2017"	"2017"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	259	15297058	1.7
+	"2017"	"2017"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	158	11865396	1.3
+	"2017"	"2017"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	96	6396376	1.5
+	"2017"	"2017"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	48	3354895	1.4
+"Total"	"2017"	"2017"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"			1776	86423439	2.1
+"Total"	"2017"	"2017"	"Female"	"F"	"White"	"2106-3"					2280	105743809	2.2
+"Total"	"2017"	"2017"	"Female"	"F"							3582	135458688	2.6
+	"2017"	"2017"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	12	169839	Unreliable
+	"2017"	"2017"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	7	176208	Unreliable
+	"2017"	"2017"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	5	152897	Unreliable
+	"2017"	"2017"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	1	116777	Unreliable
+	"2017"	"2017"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"55-64 years"	"55-64"	1	73635	Unreliable
+"Total"	"2017"	"2017"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"			26	734609	3.5
+	"2017"	"2017"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	38	215930	17.6
+	"2017"	"2017"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	68	206828	32.9
+	"2017"	"2017"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	42	161750	26.0
+	"2017"	"2017"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	30	161076	18.6
+	"2017"	"2017"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	10	150897	Unreliable
+	"2017"	"2017"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	3	89747	Unreliable
+	"2017"	"2017"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	1	34878	Unreliable
+"Total"	"2017"	"2017"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"			192	1030847	18.6
+"Total"	"2017"	"2017"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"					218	1765456	12.3
+	"2017"	"2017"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	4	88419	Unreliable
+	"2017"	"2017"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	2	86590	Unreliable
+	"2017"	"2017"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	1	72034	Unreliable
+	"2017"	"2017"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"85+ years"	"85+"	1	1583	Unreliable
+"Total"	"2017"	"2017"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"			8	351702	Unreliable
+	"2017"	"2017"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	48	1345696	3.6
+	"2017"	"2017"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	56	1687242	3.3
+	"2017"	"2017"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	42	1487448	2.8
+	"2017"	"2017"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	33	1273852	2.6
+	"2017"	"2017"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	30	993734	3.0
+	"2017"	"2017"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	10	639087	Unreliable
+	"2017"	"2017"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	4	295686	Unreliable
+"Total"	"2017"	"2017"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"			223	7821840	2.9
+"Total"	"2017"	"2017"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"					231	8173542	2.8
+	"2017"	"2017"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	46	288155	16.0
+	"2017"	"2017"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	42	268089	15.7
+	"2017"	"2017"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	14	209566	Unreliable
+	"2017"	"2017"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	5	151554	Unreliable
+	"2017"	"2017"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"75-84 years"	"75-84"	1	19673	Unreliable
+"Total"	"2017"	"2017"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"			108	1094539	9.9
+	"2017"	"2017"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	2761	3358458	82.2
+	"2017"	"2017"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	2865	3196998	89.6
+	"2017"	"2017"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	1459	2534092	57.6
+	"2017"	"2017"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	751	2509125	29.9
+	"2017"	"2017"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	417	2239726	18.6
+	"2017"	"2017"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	124	1239268	10.0
+	"2017"	"2017"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	29	491956	5.9
+	"2017"	"2017"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	10	147833	Unreliable
+"Total"	"2017"	"2017"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"			8416	15717456	53.5
+"Total"	"2017"	"2017"	"Male"	"M"	"Black or African American"	"2054-5"					8524	16811995	50.7
+	"2017"	"2017"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	777	4454102	17.4
+	"2017"	"2017"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	708	4358736	16.2
+	"2017"	"2017"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	443	3912960	11.3
+	"2017"	"2017"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	240	3156929	7.6
+	"2017"	"2017"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"55-64 years"	"55-64"	132	2075143	6.4
+	"2017"	"2017"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"65-74 years"	"65-74"	30	1064787	2.8
+	"2017"	"2017"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"75-84 years"	"75-84"	10	454095	Unreliable
+	"2017"	"2017"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"85+ years"	"85+"	4	162668	Unreliable
+"Total"	"2017"	"2017"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"			2344	19639420	11.9
+	"2017"	"2017"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	538	12229034	4.4
+	"2017"	"2017"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	849	13010670	6.5
+	"2017"	"2017"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	670	11838353	5.7
+	"2017"	"2017"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	671	13485855	5.0
+	"2017"	"2017"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	541	14590788	3.7
+	"2017"	"2017"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	224	10748445	2.1
+	"2017"	"2017"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	89	5095710	1.7
+	"2017"	"2017"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	38	1849670	2.1
+"Total"	"2017"	"2017"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"			3620	82848525	4.4
+"Total"	"2017"	"2017"	"Male"	"M"	"White"	"2106-3"					5964	102487945	5.8
+"Total"	"2017"	"2017"	"Male"	"M"							14937	129238938	11.6
+"Total"	"2017"	"2017"									18519	264697626	7.0
+	"2018"	"2018"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	3	164734	Unreliable
+	"2018"	"2018"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	1	151148	Unreliable
+	"2018"	"2018"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	1	107899	Unreliable
+"Total"	"2018"	"2018"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"			5	692165	Unreliable
+	"2018"	"2018"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	9	206809	Unreliable
+	"2018"	"2018"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	16	207729	Unreliable
+	"2018"	"2018"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	16	169460	Unreliable
+	"2018"	"2018"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	8	168601	Unreliable
+	"2018"	"2018"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	5	174035	Unreliable
+	"2018"	"2018"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	3	108884	Unreliable
+	"2018"	"2018"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	2	47692	Unreliable
+"Total"	"2018"	"2018"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"			59	1101608	5.4
+"Total"	"2018"	"2018"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"					64	1793773	3.6
+	"2018"	"2018"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	1	86756	Unreliable
+	"2018"	"2018"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	1	54054	Unreliable
+"Total"	"2018"	"2018"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"			2	363293	Unreliable
+	"2018"	"2018"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	11	1334888	Unreliable
+	"2018"	"2018"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	21	1803960	1.2
+	"2018"	"2018"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	16	1715298	Unreliable
+	"2018"	"2018"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	15	1471582	Unreliable
+	"2018"	"2018"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	11	1212827	Unreliable
+	"2018"	"2018"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	11	841830	Unreliable
+	"2018"	"2018"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	9	398273	Unreliable
+	"2018"	"2018"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	4	179646	Unreliable
+"Total"	"2018"	"2018"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"			98	8958304	1.1
+"Total"	"2018"	"2018"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"					100	9321597	1.1
+	"2018"	"2018"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	5	273807	Unreliable
+	"2018"	"2018"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	7	269415	Unreliable
+	"2018"	"2018"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	3	235215	Unreliable
+	"2018"	"2018"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	2	174366	Unreliable
+	"2018"	"2018"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"55-64 years"	"55-64"	1	122153	Unreliable
+"Total"	"2018"	"2018"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"			18	1184123	Unreliable
+	"2018"	"2018"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	327	3201996	10.2
+	"2018"	"2018"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	385	3360161	11.5
+	"2018"	"2018"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	228	2849171	8.0
+	"2018"	"2018"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	167	2811658	5.9
+	"2018"	"2018"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	96	2699093	3.6
+	"2018"	"2018"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	49	1715869	2.9
+	"2018"	"2018"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	26	816332	3.2
+	"2018"	"2018"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	5	354052	Unreliable
+"Total"	"2018"	"2018"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"			1283	17808332	7.2
+"Total"	"2018"	"2018"	"Female"	"F"	"Black or African American"	"2054-5"					1301	18992455	6.9
+	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	133	4260931	3.1
+	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	122	3985059	3.1
+	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	99	3726581	2.7
+	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	56	3148598	1.8
+	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"55-64 years"	"55-64"	29	2276121	1.3
+	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"65-74 years"	"65-74"	15	1336273	Unreliable
+	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"75-84 years"	"75-84"	5	668177	Unreliable
+	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"85+ years"	"85+"	6	296193	Unreliable
+"Total"	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"			465	19697933	2.4
+	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	195	11464424	1.7
+	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	319	12626506	2.5
+	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	286	11786558	2.4
+	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	283	13153739	2.2
+	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	253	15277067	1.7
+	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	179	12121360	1.5
+	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	104	6675477	1.6
+	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	57	3349454	1.7
+"Total"	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"			1676	86454585	1.9
+"Total"	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"					2141	106152518	2.0
+"Total"	"2018"	"2018"	"Female"	"F"							3606	136260343	2.6
+	"2018"	"2018"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	6	171170	Unreliable
+	"2018"	"2018"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	13	176076	Unreliable
+	"2018"	"2018"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	6	156028	Unreliable
+	"2018"	"2018"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	2	119269	Unreliable
+	"2018"	"2018"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"75-84 years"	"75-84"	1	11238	Unreliable
+"Total"	"2018"	"2018"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"			28	749052	3.7
+	"2018"	"2018"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	46	212446	21.7
+	"2018"	"2018"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	77	211068	36.5
+	"2018"	"2018"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	44	163918	26.8
+	"2018"	"2018"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	33	157783	20.9
+	"2018"	"2018"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	18	153401	Unreliable
+	"2018"	"2018"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	12	93609	Unreliable
+	"2018"	"2018"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	1	10552	Unreliable
+"Total"	"2018"	"2018"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"			231	1040105	22.2
+"Total"	"2018"	"2018"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"					259	1789157	14.5
+	"2018"	"2018"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	4	90121	Unreliable
+	"2018"	"2018"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	4	87172	Unreliable
+	"2018"	"2018"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	2	74132	Unreliable
+	"2018"	"2018"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	2	52610	Unreliable
+	"2018"	"2018"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"55-64 years"	"55-64"	1	33613	Unreliable
+	"2018"	"2018"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"65-74 years"	"65-74"	1	15594	Unreliable
+"Total"	"2018"	"2018"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"			14	360704	Unreliable
+	"2018"	"2018"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	37	1357311	2.7
+	"2018"	"2018"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	63	1730295	3.6
+	"2018"	"2018"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	36	1518221	2.4
+	"2018"	"2018"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	44	1287947	3.4
+	"2018"	"2018"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	25	1015474	2.5
+	"2018"	"2018"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	11	666937	Unreliable
+	"2018"	"2018"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	4	310549	Unreliable
+	"2018"	"2018"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	3	105926	Unreliable
+"Total"	"2018"	"2018"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"			223	7992660	2.8
+"Total"	"2018"	"2018"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"					237	8353364	2.8
+	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	48	290490	16.5
+	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	24	274028	8.8
+	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	10	216338	Unreliable
+	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	4	154469	Unreliable
+	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"55-64 years"	"55-64"	7	106270	Unreliable
+	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"65-74 years"	"65-74"	3	52998	Unreliable
+"Total"	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"			96	1121859	8.6
+	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	2516	3298478	76.3
+	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	2715	3297930	82.3
+	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	1430	2565382	55.7
+	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	649	2475578	26.2
+	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	440	2275130	19.3
+	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	136	1290797	10.5
+	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	25	513623	4.9
+	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	7	153453	Unreliable
+"Total"	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"			7918	15870371	49.9
+"Total"	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"					8014	16992230	47.2
+	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	721	4476247	16.1
+	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	668	4403181	15.2
+	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	442	3970813	11.1
+	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	255	3214300	7.9
+	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"55-64 years"	"55-64"	113	2162098	5.2
+	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"65-74 years"	"65-74"	37	1121633	3.3
+	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"75-84 years"	"75-84"	10	476814	Unreliable
+	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"85+ years"	"85+"	4	170403	Unreliable
+"Total"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"			2250	19995489	11.3
+	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	531	12080192	4.4
+	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	787	13030959	6.0
+	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	677	11922768	5.7
+	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	597	13079246	4.6
+	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	495	14575176	3.4
+	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	251	10970346	2.3
+	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	113	5358726	2.1
+	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	44	1873994	2.3
+"Total"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"			3495	82891407	4.2
+"Total"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"					5745	102886896	5.6
+"Total"	"2018"	"2018"	"Male"	"M"							14255	130021647	11.0
+"Total"	"2018"	"2018"									17861	266281990	6.7
+	"2019"	"2019"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	1	165839	Unreliable
+	"2019"	"2019"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	1	109754	Unreliable
+	"2019"	"2019"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"55-64 years"	"55-64"	1	78708	Unreliable
+"Total"	"2019"	"2019"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"			3	706946	Unreliable
+	"2019"	"2019"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	16	204691	Unreliable
+	"2019"	"2019"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	20	210649	9.5
+	"2019"	"2019"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	14	171740	Unreliable
+	"2019"	"2019"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	14	165074	Unreliable
+	"2019"	"2019"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	6	175665	Unreliable
+	"2019"	"2019"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	4	114541	Unreliable
+"Total"	"2019"	"2019"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"			74	1111920	6.7
+"Total"	"2019"	"2019"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"					77	1818866	4.2
+	"2019"	"2019"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	2	88103	Unreliable
+	"2019"	"2019"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	1	55450	Unreliable
+	"2019"	"2019"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"75-84 years"	"75-84"	1	8892	Unreliable
+"Total"	"2019"	"2019"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"			4	371709	Unreliable
+	"2019"	"2019"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	12	1326239	Unreliable
+	"2019"	"2019"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	23	1799122	1.3
+	"2019"	"2019"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	23	1739909	1.3
+	"2019"	"2019"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	21	1491452	1.4
+	"2019"	"2019"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	13	1236664	Unreliable
+	"2019"	"2019"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	9	884609	Unreliable
+	"2019"	"2019"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	7	420092	Unreliable
+	"2019"	"2019"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	5	190533	Unreliable
+"Total"	"2019"	"2019"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"			113	9088620	1.2
+"Total"	"2019"	"2019"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"					117	9460329	1.2
+	"2019"	"2019"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	5	277738	Unreliable
+	"2019"	"2019"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	11	272498	Unreliable
+	"2019"	"2019"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	2	240428	Unreliable
+	"2019"	"2019"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"55-64 years"	"55-64"	1	128241	Unreliable
+"Total"	"2019"	"2019"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"			19	1213179	Unreliable
+	"2019"	"2019"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	350	3163467	11.1
+	"2019"	"2019"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	337	3420785	9.9
+	"2019"	"2019"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	240	2879353	8.3
+	"2019"	"2019"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	139	2774547	5.0
+	"2019"	"2019"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	90	2730944	3.3
+	"2019"	"2019"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	34	1798969	1.9
+	"2019"	"2019"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	15	850084	Unreliable
+	"2019"	"2019"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	3	360819	Unreliable
+"Total"	"2019"	"2019"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"			1208	17978968	6.7
+"Total"	"2019"	"2019"	"Female"	"F"	"Black or African American"	"2054-5"					1227	19192147	6.4
+	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	118	4299106	2.7
+	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	129	4037056	3.2
+	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	116	3743908	3.1
+	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	66	3193393	2.1
+	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"55-64 years"	"55-64"	45	2353237	1.9
+	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"65-74 years"	"65-74"	19	1399739	Unreliable
+	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"75-84 years"	"75-84"	9	704587	Unreliable
+	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"85+ years"	"85+"	5	301930	Unreliable
+"Total"	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"			507	20032956	2.5
+	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	189	11351968	1.7
+	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	285	12603520	2.3
+	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	292	11880517	2.5
+	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	257	12734557	2.0
+	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	246	15207110	1.6
+	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	173	12456062	1.4
+	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	105	6889254	1.5
+	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	51	3334297	1.5
+"Total"	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"			1598	86457285	1.8
+"Total"	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"					2105	106490241	2.0
+"Total"	"2019"	"2019"	"Female"	"F"							3526	136961583	2.6
+	"2019"	"2019"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	8	172419	Unreliable
+	"2019"	"2019"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	7	175785	Unreliable
+	"2019"	"2019"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	9	158142	Unreliable
+	"2019"	"2019"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	2	121679	Unreliable
+"Total"	"2019"	"2019"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"			26	762358	3.4
+	"2019"	"2019"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	50	209930	23.8
+	"2019"	"2019"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	70	214703	32.6
+	"2019"	"2019"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	46	166172	27.7
+	"2019"	"2019"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	33	154503	21.4
+	"2019"	"2019"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	16	155403	Unreliable
+	"2019"	"2019"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	4	97842	Unreliable
+	"2019"	"2019"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	3	39668	Unreliable
+"Total"	"2019"	"2019"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"			222	1049378	21.2
+"Total"	"2019"	"2019"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"					248	1811736	13.7
+	"2019"	"2019"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	5	91806	Unreliable
+	"2019"	"2019"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	8	87876	Unreliable
+	"2019"	"2019"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	6	76214	Unreliable
+	"2019"	"2019"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	1	53762	Unreliable
+"Total"	"2019"	"2019"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"			20	369643	5.4
+	"2019"	"2019"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	48	1344100	3.6
+	"2019"	"2019"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	55	1738001	3.2
+	"2019"	"2019"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	29	1547983	1.9
+	"2019"	"2019"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	48	1309308	3.7
+	"2019"	"2019"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	36	1039073	3.5
+	"2019"	"2019"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	10	698279	Unreliable
+	"2019"	"2019"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	4	327411	Unreliable
+"Total"	"2019"	"2019"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"			230	8118558	2.8
+"Total"	"2019"	"2019"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"					250	8488201	2.9
+	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	35	294374	11.9
+	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	38	280307	13.6
+	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	12	222853	Unreliable
+	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	11	157600	Unreliable
+	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"55-64 years"	"55-64"	2	111317	Unreliable
+	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"65-74 years"	"65-74"	2	56753	Unreliable
+"Total"	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"			100	1152295	8.7
+	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	2705	3253059	83.2
+	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	2923	3384452	86.4
+	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	1489	2602104	57.2
+	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	702	2437980	28.8
+	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	458	2305314	19.9
+	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	143	1350622	10.6
+	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	23	537651	4.3
+	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	4	158499	Unreliable
+"Total"	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"			8447	16029681	52.7
+"Total"	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"					8547	17181976	49.7
+	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"15-24 years"	"15-24"	713	4495205	15.9
+	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"25-34 years"	"25-34"	712	4434230	16.1
+	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"35-44 years"	"35-44"	441	4003731	11.0
+	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"45-54 years"	"45-54"	219	3257861	6.7
+	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"55-64 years"	"55-64"	143	2249594	6.4
+	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"65-74 years"	"65-74"	36	1182175	3.0
+	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"75-84 years"	"75-84"	15	505004	Unreliable
+	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"85+ years"	"85+"	1	173554	Unreliable
+"Total"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"			2280	20301354	11.2
+	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"15-24 years"	"15-24"	508	11949466	4.3
+	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"25-34 years"	"25-34"	716	13043826	5.5
+	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"35-44 years"	"35-44"	725	12014881	6.0
+	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"45-54 years"	"45-54"	537	12679273	4.2
+	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"55-64 years"	"55-64"	493	14521436	3.4
+	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"65-74 years"	"65-74"	252	11260390	2.2
+	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"75-84 years"	"75-84"	91	5547449	1.6
+	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"85+ years"	"85+"	35	1907106	1.8
+"Total"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"			3357	82923827	4.0
+"Total"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"					5637	103225181	5.5
+"Total"	"2019"	"2019"	"Male"	"M"							14682	130707094	11.2
+"Total"	"2019"	"2019"									18208	267668677	6.8
+"Total"											181514	2830394613	6.4
+"---"
+"Dataset: Underlying Cause of Death, 1999-2019"
+"Query Parameters:"
+"Hispanic Origin: Hispanic or Latino; Not Hispanic or Latino"
+"Injury Intent: Homicide"
+"Ten-Year Age Groups: 15-24 years; 25-34 years; 35-44 years; 45-54 years; 55-64 years; 65-74 years; 75-84 years; 85+ years"
+"Year/Month: 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019"
+"Group By: Year; Gender; Race; Hispanic Origin; Ten-Year Age Groups"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Mar 1, 2021 4:41:22 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2019 on CDC WONDER Online Database, released in 2020. Data are from the Multiple Cause of Death Files, 1999-2019, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Mar 1, 2021 4:41:22 PM"
+"---"
+Messages:
+"1. Rows with zero Deaths are hidden, but the Population values in those rows are included in the totals. Use Quick Options above"
+"to show zero rows."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"2. Circumstances in Georgia for the years 2008 and 2009 have resulted in unusually high death counts for the ICD-10 cause of"
+"death code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data."
+"More information: http://wonder.cdc.gov/wonder/help/ucd.html#Georgia-Reporting-Anomalies."
+"3. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death code"
+"R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10 codes,"
+"most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/ucd.html#New-Jersey-Reporting-Anomalies."
+"4. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"5. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"6. Deaths of persons with Hispanic origin ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among"
+"Hispanic Origin groups, so are not included in the Hispanic Origin specific counts and rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"7. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the"
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis"
+"of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin"
+"are inconsistent between these two data sources, death rates will be biased. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Racial Differences."
+"8. The population figures for year 2019 are bridged-race estimates of the July 1 resident population, from the Vintage 2019"
+"postcensal series released by NCHS on July 9, 2020. The population figures for year 2018 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2018 postcensal series released by NCHS on June 25, 2019. The population figures for"
+"year 2017 are bridged-race estimates of the July 1 resident population, from the Vintage 2017 postcensal series released by NCHS"
+"on June 27, 2018. The population figures for year 2016 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2016 postcensal series released by NCHS on June 26, 2017. The population figures for year 2015 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2015 postcensal series released by NCHS on June 28, 2016. The"
+"population figures for year 2014 are bridged-race estimates of the July 1 resident population, from the Vintage 2014 postcensal"
+"series released by NCHS on June 30, 2015. The population figures for year 2013 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2013 postcensal series released by NCHS on June 26, 2014. The population figures for year 2012 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2012 postcensal series released by NCHS on June 13,"
+"2013. The population figures for year 2011 are bridged-race estimates of the July 1 resident population, from the Vintage 2011"
+"postcensal series released by NCHS on July 18, 2012. Population figures for 2010 are April 1 Census counts. The population"
+"figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident population, from the revised intercensal"
+"county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population figures for 2000 are April 1 Census counts."
+"Population figures for 1999 are from the 1990-1999 intercensal series of July 1 estimates. Population figures for the infant age"
+"groups are the number of live births. <br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from"
+"previously published reports, due to use of the population estimates which were available at the time of release."
